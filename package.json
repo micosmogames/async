@@ -1,0 +1,33 @@
+{
+  "name": "@micosmo/async",
+  "version": "0.1.0",
+  "description": "Async services and utilties",
+  "main": "index.js",
+  "homepage": "https://github.com/micosmogames/toolbox/blob/HEAD/async/README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micosmogames/toolbox.git",
+    "directory": "async"
+  },
+  "bugs": {
+    "email": "micosmogames@gmail.com"
+  },
+  "author": "Micosmo",
+  "license": "ISC",
+  "dependencies": {
+    "@micosmo/core": "^0.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "keywords": [
+    "thread",
+    "threads",
+    "async",
+    "asynchronous",
+    "synchronous",
+    "sync",
+    "synchronize",
+    "synchronise",
+    "promise"
+  ]
+}
